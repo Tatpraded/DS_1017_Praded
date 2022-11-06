@@ -24,13 +24,12 @@
    - Писать код в соответствии со стандартом *PEP8*.
   
 4. **Этапы работы над проектом**
-   - Добавила фрагмент кода, который модернизирует игру в соответствии с заданием (строки 19-24).
+   - Добавила фрагмент кода, который модернизирует игру в соответствии с заданием (строки 16-22).
    - Создала презентацию проекта в *Jupyter Notebook* - [game.ipynb](https://github.com/Tatpraded/DS_1017_Praded/blob/master/project_0/game.ipynb).
    - Отразила все изменения на *GitHub* - [project_0](https://github.com/Tatpraded/DS_1017_Praded/tree/master/project_0).
    - Создала описание проекта файл [README.md](https://github.com/Tatpraded/DS_1017_Praded/blob/master/project_0/README.md).
+   - Зафиксировала версии библиотек, установленные в окружении, во время работы над задачей [requirements.txt](https://github.com/Tatpraded/DS_1017_Praded/blob/master/project_0/requirements.txt).
 
 5. **Результат**
    - Алгоритм угадывает число в среднем за 5 попыток.
-   - Проект загружен на *GitHub* - [project_0](https://github.com/Tatpraded/DS_1017_Praded/tree/master/project_0).
-
-
+   - Проект и сопутствующие файлы загружены на *GitHub* - [project_0](https://github.com/Tatpraded/DS_1017_Praded/tree/master/project_0).
