@@ -9,20 +9,19 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: Число попыток
     """
-    count = 0 # Переменная счетчик
-    min_number = 1 # Минимальное значение рассматриваемого интервала
-    max_number = 100 # Максимальное значение рассматриваемого интервала
+    count = 0 # переменная счетчик
+    min_number = 1 # минимальное значение рассматриваемого интервала
+    max_number = 100 # максимальное значение рассматриваемого интервала
     
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # Загадываем рандомное число, используя генератор рандомных чисел
-        predict_number = (max_number + min_number) // 2 # Сужаем интервал поиска
-        if predict_number > number: # Сравниваем
-            max_number = predict_number - 1
-        elif predict_number < number:
-            min_number = predict_number + 1
-        else:
-            break # Конец игры и выход из цикла
+        predict_number = np.random.randint(1, 101) # предполагаемое число
+        predict_number = (max_number + min_number) // 2 # расчитываем среднее значение между min_number и max_number 
+        if predict_number > number: # сравниваем загаданное значение с предполагаемым predict_number... 
+            max_number = predict_number - 1 # и если оно больше уменьшаем его
+        elif predict_number < number: # сравниваем загаданное значение с предполагаемым predict_number...
+            min_number = predict_number + 1 # и если оно меньше увеличиваем его
+            break # конец игры и выход из цикла
     return(count)
 
 def score_game(random_predict) -> int:
@@ -34,8 +33,8 @@ def score_game(random_predict) -> int:
     """
 
     count_ls = []
-    np.random.seed(1)  # Фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(1000))  # Загадали список чисел
+    np.random.seed(1)  # фиксируем сид для воспроизводимости
+    random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
     
     for number in random_array:
         count_ls.append(random_predict(number))
@@ -45,5 +44,4 @@ def score_game(random_predict) -> int:
 score_game(random_predict)
 
 
-    
-    
+   
