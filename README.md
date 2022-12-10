@@ -1,11 +1,12 @@
 # My Data Science  Project
-[From the ](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DST-3.0+28FEB2021/courseware/4d5c5211c48e4964a9449babe31038db/d08e512bf8264286966cb9ef71bd16d4/7?activate_block_id=block-v1%3ASkillFactory%2BDST-3.0%2B28FEB2021%2Btype%40problem%2Bblock%405b457c19e68247eb8074b9e428bad860)
+
+Проекты выполненные в рамках обучения по направлению Data Science на образовательной платформе SkillFactory
 
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/Tatpraded/DS_1017_Praded/tree/master/project_0)
-* [Проект 1. ]()
-* [Проект 2. ]()
+* [Проект 0.1 Визуализация и построение графиков. Анализ оттока клиентов банка (Churn for Bank Customers) ](https://github.com/Tatpraded/DS_1017_Praded/tree/master/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%B2_%D0%91%D0%B0%D0%BD%D0%BA)
+
 
 
 
