@@ -1,4 +1,4 @@
-# [**Проект №1 "Анализ вакансий HeadHanter"**.]()
+# [**Проект №1 "Анализ вакансий HeadHanter"**.](https://github.com/Tatpraded/DS_1017_Praded/blob/master/project_1/Project-1.ipynb)
 
 ## Необходимо преобразовать, исследовать и очистить базу данных с резюме предоставленную HeadHanter: [Задача на платформе SkillFactory.](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DST-3.0+28FEB2021/courseware/4d5c5211c48e4964a9449babe31038db/bf69280a161744a8ab51bcb50b2e0b44/5?activate_block_id=block-v1%3ASkillFactory%2BDST-3.0%2B28FEB2021%2Btype%40problem%2Bblock%4024af601e1e8a4d498682e1d77600aa44)
 ------
