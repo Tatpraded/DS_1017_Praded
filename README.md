@@ -10,4 +10,4 @@
 
 * [Проект 2 Анализ вакансий HeadHanter](https://github.com/Tatpraded/DS_1017_Praded/blob/master/project_2/Project-2.ipynb)
 
-* [Проект 3 Прогнозирование рейтинга отеля на Booking]()
+* [Проект 3 Прогнозирование рейтинга отеля на Booking](https://github.com/Tatpraded/DS_1017_Praded/tree/master/project_3)
